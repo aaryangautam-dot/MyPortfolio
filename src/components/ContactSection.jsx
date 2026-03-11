@@ -73,7 +73,7 @@ export const ContactSection = () => {
                                 <h4 className="font-medium"> Location</h4>
                                 <a  
                                 className="text-muted-foreground hover:text-primary transition-colors">
-                                    Ghaziabad, UP, India
+                                    Noida, UP, India
                                 </a>
                             </div>
                         </div>
